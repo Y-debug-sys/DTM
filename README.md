@@ -1,6 +1,6 @@
 # Official Implementation of "Diffusion Models Meet Network Management: Improving Traffic Matrix Analysis with Diffusion-based Approach"
 
-This is the official repository of IEEE TNSM paper "[Diffusion Models Meet Network Management: Improving Traffic Matrix Analysis with Diffusion-based Approach](https://arxiv.org/abs/2411.19493)".
+This is the official repository of IEEE Transactions on Network and Service Management (TNSM) paper "[Diffusion Models Meet Network Management: Improving Traffic Matrix Analysis with Diffusion-based Approach](https://arxiv.org/abs/2411.19493)".
 
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-3813/)
 [![Pytorch 2.0](https://img.shields.io/badge/pytorch-2.0.1-orange.svg)](https://pytorch.org/)
