@@ -33,7 +33,7 @@ def parse_args():
     parser.add_argument('--feature_size', type=int, default=144, help='')
     parser.add_argument('--hidden_size', type=int, default=64, help='')
     parser.add_argument('--flow_known_rate', type=float, default=0.1,
-                        help="Known Ratio (Link Loads during Testing)")
+                        help="Known Ratio (TMs during Training and Testing)")
     parser.add_argument('--link_known_rate', type=float, default=0.,
                         help="Known Ratio (Link Loads during Testing)")
     parser.add_argument('--mode', type=str, default="TME",
