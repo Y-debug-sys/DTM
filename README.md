@@ -66,11 +66,12 @@ The detailed descriptions about the arguments are as following:
 If you are using this work, please cite:
 
 ```
-@article{yuan2024diffusion,
-  title={Diffusion Models Meet Network Management: Improving Traffic Matrix Analysis with Diffusion-based Approach},
+@article{yuan2025diffusion,
+  title={Diffusion Models Meet Network Management: Improving Traffic Matrix Analysis With Diffusion-Based Approach},
   author={Yuan, Xinyu and Qiao, Yan and Wei, Zhenchun and Zhang, Zeyu and Li, Minyue and Zhao, Pei and Hu, Rongyao and Li, Wenjing},
-  journal={arXiv preprint arXiv:2411.19493},
-  year={2024}
+  journal={IEEE Transactions on Network and Service Management},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
